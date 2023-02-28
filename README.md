@@ -1,9 +1,13 @@
-# Ultimate Tutorial Series for SvelteKit
+# Go Headless with Your Favorite Framework
 
-Welcome to the Ultimate Tutorial Series for SvelteKit - you are in the right place to learn all about building a full-blown, multilingual website using Storyblok & SvelteKit. 
+## Exercise 3: Creating a Dynamic Menu with Sveltekit & Storyblok
 
-Please follow the step by step instructions available in our documentation. You can find all the different parts on this overview page and take it from here. 
+Welcome to Exercise 3 of our Workshop "Go Headless with your Favorite Framework". In this Exercise, we will create a dynamic menu in your project using SvelteKit and Storyblok. We will:
 
-### Feedback 
+- add a header component
+- create multiple pages in Storyblok
+- add route announcements
+- add new bloks
+- use Storyblok to dynamically adjust our navigation
 
-If you have any questions or feedback, don't hesitate to reach out to our team on [Twitter](https://twitter.com/storyblok), submit a [feature request](https://github.com/storyblok/sveltekit-ultimate-tutorial-series/issues/new) or join our [Discord Community](https://discord.com/invite/jKrbAMz).  
+Try to follow the instructions provided during the workshop on your own first. If you get stuck, this repository provides you with the final code solution.
